@@ -1,0 +1,15 @@
+NanoCount -i ../04_transcriptome_alignment/7316-1700.tx.bam -o NanoCount_out/7316-1700/7316-1700.counts.tsv -t 0.8 --extra_tx_info
+NanoCount -i ../04_transcriptome_alignment/7316-2227.tx.bam -o NanoCount_out/7316-2227/7316-2227.counts.tsv -t 0.8 --extra_tx_info
+NanoCount -i ../04_transcriptome_alignment/7316-2252.tx.bam -o NanoCount_out/7316-2252/7316-2252.counts.tsv -t 0.8 --extra_tx_info
+NanoCount -i ../04_transcriptome_alignment/7316-2322.tx.bam -o NanoCount_out/7316-2322/7316-2322.counts.tsv -t 0.8 --extra_tx_info
+NanoCount -i ../04_transcriptome_alignment/7316-2700.tx.bam -o NanoCount_out/7316-2700/7316-2700.counts.tsv -t 0.8 --extra_tx_info
+NanoCount -i ../04_transcriptome_alignment/7316-3510.tx.bam -o NanoCount_out/7316-3510/7316-3510.counts.tsv -t 0.8 --extra_tx_info
+NanoCount -i ../04_transcriptome_alignment/7316-438.tx.bam -o NanoCount_out/7316-438/7316-438.counts.tsv -t 0.8 --extra_tx_info
+NanoCount -i ../04_transcriptome_alignment/7316-489.tx.bam -o NanoCount_out/7316-489/7316-489.counts.tsv -t 0.8 --extra_tx_info
+NanoCount -i ../04_transcriptome_alignment/7316-670.tx.bam -o NanoCount_out/7316-670/7316-670.counts.tsv -t 0.8 --extra_tx_info
+NanoCount -i ../04_transcriptome_alignment/7316-737.tx.bam -o NanoCount_out/7316-737/7316-737.counts.tsv -t 0.8 --extra_tx_info
+NanoCount -i ../04_transcriptome_alignment/7316-906.tx.bam -o NanoCount_out/7316-906/7316-906.counts.tsv -t 0.8 --extra_tx_info
+NanoCount -i ../04_transcriptome_alignment/7316-922.tx.bam -o NanoCount_out/7316-922/7316-922.counts.tsv -t 0.8 --extra_tx_info
+NanoCount -i ../04_transcriptome_alignment/N_4390.tx.bam -o NanoCount_out/N_4390/N_4390.counts.tsv -t 0.8 --extra_tx_info
+NanoCount -i ../04_transcriptome_alignment/N_6321.tx.bam -o NanoCount_out/N_6321/N_6321.counts.tsv -t 0.8 --extra_tx_info
+NanoCount -i ../04_transcriptome_alignment/N_8009.tx.bam -o NanoCount_out/N_8009/N_8009.counts.tsv -t 0.8 --extra_tx_info

@@ -1,0 +1,15 @@
+stringtie ../03_genomic_alignment/7316-1700.dorado.bam -G ../../ref/chm13v2.0_RefSeq_Liftoff_v5.2.gtf -p 48 -o stringtie_out/7316-1700/transcripts.gtf -A stringtie_out/7316-1700/gene_abundances.tsv -eB -L
+stringtie ../03_genomic_alignment/7316-2227.dorado.bam -G ../../ref/chm13v2.0_RefSeq_Liftoff_v5.2.gtf -p 48 -o stringtie_out/7316-2227/transcripts.gtf -A stringtie_out/7316-2227/gene_abundances.tsv -eB -L
+stringtie ../03_genomic_alignment/7316-2252.dorado.bam -G ../../ref/chm13v2.0_RefSeq_Liftoff_v5.2.gtf -p 48 -o stringtie_out/7316-2252/transcripts.gtf -A stringtie_out/7316-2252/gene_abundances.tsv -eB -L
+stringtie ../03_genomic_alignment/7316-2322.dorado.bam -G ../../ref/chm13v2.0_RefSeq_Liftoff_v5.2.gtf -p 48 -o stringtie_out/7316-2322/transcripts.gtf -A stringtie_out/7316-2322/gene_abundances.tsv -eB -L
+stringtie ../03_genomic_alignment/7316-2700.dorado.bam -G ../../ref/chm13v2.0_RefSeq_Liftoff_v5.2.gtf -p 48 -o stringtie_out/7316-2700/transcripts.gtf -A stringtie_out/7316-2700/gene_abundances.tsv -eB -L
+stringtie ../03_genomic_alignment/7316-3510.dorado.bam -G ../../ref/chm13v2.0_RefSeq_Liftoff_v5.2.gtf -p 48 -o stringtie_out/7316-3510/transcripts.gtf -A stringtie_out/7316-3510/gene_abundances.tsv -eB -L
+stringtie ../03_genomic_alignment/7316-438.dorado.bam -G ../../ref/chm13v2.0_RefSeq_Liftoff_v5.2.gtf -p 48 -o stringtie_out/7316-438/transcripts.gtf -A stringtie_out/7316-438/gene_abundances.tsv -eB -L
+stringtie ../03_genomic_alignment/7316-489.dorado.bam -G ../../ref/chm13v2.0_RefSeq_Liftoff_v5.2.gtf -p 48 -o stringtie_out/7316-489/transcripts.gtf -A stringtie_out/7316-489/gene_abundances.tsv -eB -L
+stringtie ../03_genomic_alignment/7316-670.dorado.bam -G ../../ref/chm13v2.0_RefSeq_Liftoff_v5.2.gtf -p 48 -o stringtie_out/7316-670/transcripts.gtf -A stringtie_out/7316-670/gene_abundances.tsv -eB -L
+stringtie ../03_genomic_alignment/7316-737.dorado.bam -G ../../ref/chm13v2.0_RefSeq_Liftoff_v5.2.gtf -p 48 -o stringtie_out/7316-737/transcripts.gtf -A stringtie_out/7316-737/gene_abundances.tsv -eB -L
+stringtie ../03_genomic_alignment/7316-906.dorado.bam -G ../../ref/chm13v2.0_RefSeq_Liftoff_v5.2.gtf -p 48 -o stringtie_out/7316-906/transcripts.gtf -A stringtie_out/7316-906/gene_abundances.tsv -eB -L
+stringtie ../03_genomic_alignment/7316-922.dorado.bam -G ../../ref/chm13v2.0_RefSeq_Liftoff_v5.2.gtf -p 48 -o stringtie_out/7316-922/transcripts.gtf -A stringtie_out/7316-922/gene_abundances.tsv -eB -L
+stringtie ../03_genomic_alignment/N_4390.dorado.bam -G ../../ref/chm13v2.0_RefSeq_Liftoff_v5.2.gtf -p 48 -o stringtie_out/N_4390/transcripts.gtf -A stringtie_out/N_4390/gene_abundances.tsv -eB -L
+stringtie ../03_genomic_alignment/N_6321.dorado.bam -G ../../ref/chm13v2.0_RefSeq_Liftoff_v5.2.gtf -p 48 -o stringtie_out/N_6321/transcripts.gtf -A stringtie_out/N_6321/gene_abundances.tsv -eB -L
+stringtie ../03_genomic_alignment/N_8009.dorado.bam -G ../../ref/chm13v2.0_RefSeq_Liftoff_v5.2.gtf -p 48 -o stringtie_out/N_8009/transcripts.gtf -A stringtie_out/N_8009/gene_abundances.tsv -eB -L
